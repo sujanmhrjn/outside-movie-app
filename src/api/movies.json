@@ -1,0 +1,117 @@
+[
+	{
+		"id": "287947",
+		"title": "Shazam!",
+		"director": [
+			{
+				"name": "David F. Sandberg",
+				"photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE85W7D15agqN33pGxwmzy0k2x80ydYpcAwzegSX6hIm3XQfrA",
+				"description": "David F. Sandberg is a Swedish filmmaker. He is best known for his collective no-budget horror short films under the online pseudonym ponysmasher and for his 2016 directorial debut Lights Out, based on his 2013 acclaimed horror short of the same name."
+			}
+		],
+		"poster": "https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+		"overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
+		"release_date": 1553299200,
+		"genres": ["Action", "Comedy", "Fantasy"]
+	},
+	{
+		"id": "299537",
+		"title": "Captain Marvel",
+		"director": [
+			{
+				"name": "Anna Boden",
+				"photoUrl": "https://flxt.tmsimg.com/v9/AllPhotos/492814/492814_v9_bb.jpg",
+				"description": "Anna Boden is an American film director, cinematographer, editor, and screenwriter best known as the co-writer of the 2006 film Half Nelson. She is known for her collaborations with fellow filmmaker Ryan Fleck. While studying film at NYU, Boden met Ryan Fleck on the set of a student film. Soon they began dating and decided to collaborate."
+			},
+			{
+				"name": "Ryan Fleck",
+				"photoUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhkudFM6fTBfJh0GLn0pMXravc97kHeWfDQLEdo5MWGLikTQEq",
+				"description": "Ryan Kevin Fleck is an American filmmaker. He is known for writing/directing films such as Half Nelson and Mississippi Grind. He also directed TV shows such as In Treatment and The Affair."
+			}
+		],
+		"poster": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+		"overview": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+		"release_date": 1551830400,
+		"genres": ["Action", "Adventure", "Science Fiction"]
+	},
+	{
+		"id": "522681",
+		"title": "Escape Room",
+		"director": [
+			{
+				"name": "Adam Robitel",
+				"photoUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyXL_CATIcSs9X_jvZRBtCR1hd8LFY9SXjg4_fz7CQ-90XKjLp",
+				"description": "Adam Robitel is an American film director, producer, screenwriter, and actor. He is best known for directing horror films, such as The Taking of Deborah Logan, Insidious: The Last Key and Escape Room. He also co-wrote Paranormal Activity: The Ghost Dimension."
+			}
+		],
+		"poster": "https://image.tmdb.org/t/p/w500/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg",
+		"overview": "Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.",
+		"release_date": 1546473600,
+		"genres": ["Thriller", "Action", "Horror", "Science Fiction"]
+	},
+	{
+		"id": "166428",
+		"title": "How to Train Your Dragon: The Hidden World",
+		"director": [
+			{
+				"name": "Dean DeBlois",
+				"photoUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnF-u1kzKBHFXv2GxcCKlJd6GNGm4GY3eraw3HaGk2tM5b8UNc",
+				"description": "Dean DeBlois is a Canadian film director, film producer, screenwriter, and animator. He is best known for writing and directing the Oscar-nominated animated films Lilo & Stitch for Walt Disney Animation Studios (with Chris Sanders), the How to Train Your Dragon film trilogy for DreamWorks Animation (the first film also with Sanders), and directing the documentary Heima about the Icelandic band Sigur Rós."
+			}
+		],
+		"poster": "https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+		"overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+		"release_date": 1546473600,
+		"genres": ["Animation", "Family", "Adventure"]
+	},
+	{
+		"id": "450465",
+		"title": "Glass",
+		"director": [
+			{
+				"name": "M. Night Shyamalan",
+				"photoUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZpGVGiaRD6ZkjvdbmjScnR5jFPAz6XO4BqyGtifTND-lt7ZQA",
+				"description": "Manoj Nelliyattu 'M. Night' Shyamalan is an American filmmaker, philanthropist, and actor. He is known for making original films with contemporary supernatural plots and twist endings. He was born in Mahè, India, and raised in Penn Valley, Pennsylvania. The cumulative gross of his films exceeds $3 billion globally."
+			}
+		],
+		"poster": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+		"overview": "In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+		"release_date": 1547596800,
+		"genres": ["Documentary"]
+	},
+	{
+		"id": "495925",
+		"title": "Doraemon the Movie: Nobita's Treasure Island",
+		"director": [
+			{
+				"name": "Kazuaki Imai",
+				"photoUrl": "https://cdn-us.anidb.net/images/main/235812.jpg",
+				"description": "Kazuaki Imai, Japanese science educator. Certified engineer."
+			}
+		],
+		"poster": "https://image.tmdb.org/t/p/w500/xiLRClQmKSVAbiu6rgCRzNQjcSX.jpg",
+		"overview": "Doraemon: Nobita's Treasure Island (映画ドラえもん のび太の宝島, Eiga Doraemon Nobita no Takarajima), also known as Doraemon the Movie 2018, is a Japanese science fiction anime film. It is the 38th Doraemon film. The story is based on Robert Louis Stevenson's 1883 novel Treasure Island, with a screenplay written by Genki Kawamura - the producer of Your Name and The Boy and the Beast. Kazuaki Imai, an episode director on the Doraemon television anime, directed the project as his first Doraemon franchise film. This film was released on March 3, 2018 in Japan.",
+		"release_date": 1520035200,
+		"genres": ["Animation"]
+	},
+	{
+		"id": "299534",
+		"title": "Avengers: Endgame",
+		"director": [
+			{
+				"name": "Joe Russo",
+				"photoUrl": "https://resizing.flixster.com/k3zWzIZi97ZOYtpB22h57Qo9IAc=/506x652/v2/https://flxt.tmsimg.com/v9/AllPhotos/303029/303029_v9_bb.jpg",
+				"description": "Joe Russo was born on July 8, 1971 in Cleveland, Ohio, USA as Joseph Vincent Russo. He is a producer and director, known for Avengers: Endgame (2019), Avengers: Infinity War (2018) and Captain America: The Winter Soldier (2014)."
+			},
+			{
+				"name": "Anthony Russo",
+				"photoUrl": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRnN_fNZbHAfORi2Qz25hXTffoiPgnEaSfeRkGSwW7UqiFoDoTqcbjg4Z8l5GOb",
+				"description": "Anthony Russo (born February 3, 1970) and Joseph Russo (born July 18, 1971), collectively known as the Russo brothers (ROO-so), are American directors, producers, screenwriters, and actors."
+			}
+		],
+		"poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+		"overview": "Avengers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the direct sequel to Avengers: Infinity War (2018) and the 22nd film in the Marvel Cinematic Universe (MCU). Directed by Anthony and Joe Russo and written by Christopher Markus and Stephen McFeely, the film features an ensemble cast including Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan, Danai Gurira, Benedict Wong, Jon Favreau, Bradley Cooper, Gwyneth Paltrow, and Josh Brolin. In the film, the surviving members of the Avengers and their allies attempt to reverse the damage caused by Thanos in Infinity War.",
+		"release_date": 1556067600,
+		"genres": ["Adventure", "Science Fiction", "Action"]
+	}
+]

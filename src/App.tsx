@@ -1,4 +1,5 @@
 import * as React from "react";
+import "./api/mock-server";
 export interface HelloWorldProps {
   userName: string;
   lang: string;
