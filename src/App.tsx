@@ -1,11 +1,9 @@
 import * as React from "react";
-import "./api/mock-server";
-export interface HelloWorldProps {
-  userName: string;
-  lang: string;
+import MoviesList from './pages/Movies';
+export const App = () => {
+  return(
+    <div>
+      <MoviesList/>
+    </div>
+  )
 }
-export const App = (props: HelloWorldProps) => (
-  <h1 className="font-bold text-red-400 text-3xl">
-    Hi {props.userName} from React! Welcome to {props.lang}!
-  </h1>
-);

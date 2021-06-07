@@ -1,4 +1,2 @@
 @import "0-plugins/plugins-dir.scss";
-body {
-	@apply bg-red-300;
-}
+@import "2-modules/modules-dir.scss";

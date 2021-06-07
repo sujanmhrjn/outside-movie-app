@@ -1,0 +1,67 @@
+.slideToggle {
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 200ms;
+}
+
+.fade {
+	opacity: 0;
+	display: none;
+	transform: translateY(100%);
+	transition: all 0.4s;
+}
+
+.fade-enter {
+	opacity: 0;
+	display: block;
+}
+.fade-enter-done,
+.fade-exit {
+	opacity: 1;
+	display: block;
+	transform: translateY(0);
+}
+.fade-exit-done {
+	opacity: 0;
+	transform: translateY(100%);
+	transition: opacity 200ms;
+}
+.fade-exit-active {
+	opacity: 0;
+	transform: translateY(100%);
+}
+.fade-exit-done {
+	display: none;
+}
+.dialog {
+	display: none;
+	opacity: 0;
+	transition: all 0.4s;
+}
+.dialog-content {
+	transform: translateY(40px);
+}
+.dialog-enter {
+	display: block;
+}
+.dialog-enter-active {
+	display: block;
+}
+.dialog-enter-done,
+.dialog-exit {
+	display: block;
+	opacity: 1;
+}
+.dialog-enter-done .dialog-content {
+	transform: translateY(0);
+}
+.dialog-exit .dialog-content {
+	transform: translateY(40px);
+	opacity: 0;
+}
+.dialog-exit-active {
+	opacity: 0;
+}
+.dialog-exit-done {
+	display: none;
+}

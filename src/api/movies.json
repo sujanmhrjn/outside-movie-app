@@ -11,7 +11,7 @@
 		],
 		"poster": "https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
 		"overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
-		"release_date": 1553299200,
+		"release_date": 1552588200000,
 		"genres": ["Action", "Comedy", "Fantasy"]
 	},
 	{
@@ -31,7 +31,7 @@
 		],
 		"poster": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
 		"overview": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
-		"release_date": 1551830400,
+		"release_date": 1551205800000,
 		"genres": ["Action", "Adventure", "Science Fiction"]
 	},
 	{
@@ -46,7 +46,7 @@
 		],
 		"poster": "https://image.tmdb.org/t/p/w500/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg",
 		"overview": "Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.",
-		"release_date": 1546473600,
+		"release_date": 1546453800000,
 		"genres": ["Thriller", "Action", "Horror", "Science Fiction"]
 	},
 	{
@@ -61,7 +61,7 @@
 		],
 		"poster": "https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
 		"overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
-		"release_date": 1546473600,
+		"release_date": 1546453800000,
 		"genres": ["Animation", "Family", "Adventure"]
 	},
 	{
@@ -76,7 +76,7 @@
 		],
 		"poster": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
 		"overview": "In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
-		"release_date": 1547596800,
+		"release_date": 1547577000000,
 		"genres": ["Documentary"]
 	},
 	{
@@ -85,13 +85,13 @@
 		"director": [
 			{
 				"name": "Kazuaki Imai",
-				"photoUrl": "https://cdn-us.anidb.net/images/main/235812.jpg",
+				"photoUrl": "https://cdn.myanimelist.net/images/voiceactors/1/53613.jpg",
 				"description": "Kazuaki Imai, Japanese science educator. Certified engineer."
 			}
 		],
 		"poster": "https://image.tmdb.org/t/p/w500/xiLRClQmKSVAbiu6rgCRzNQjcSX.jpg",
 		"overview": "Doraemon: Nobita's Treasure Island (映画ドラえもん のび太の宝島, Eiga Doraemon Nobita no Takarajima), also known as Doraemon the Movie 2018, is a Japanese science fiction anime film. It is the 38th Doraemon film. The story is based on Robert Louis Stevenson's 1883 novel Treasure Island, with a screenplay written by Genki Kawamura - the producer of Your Name and The Boy and the Beast. Kazuaki Imai, an episode director on the Doraemon television anime, directed the project as his first Doraemon franchise film. This film was released on March 3, 2018 in Japan.",
-		"release_date": 1520035200,
+		"release_date": 1520015400000,
 		"genres": ["Animation"]
 	},
 	{
@@ -111,7 +111,7 @@
 		],
 		"poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
 		"overview": "Avengers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the direct sequel to Avengers: Infinity War (2018) and the 22nd film in the Marvel Cinematic Universe (MCU). Directed by Anthony and Joe Russo and written by Christopher Markus and Stephen McFeely, the film features an ensemble cast including Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan, Danai Gurira, Benedict Wong, Jon Favreau, Bradley Cooper, Gwyneth Paltrow, and Josh Brolin. In the film, the surviving members of the Avengers and their allies attempt to reverse the damage caused by Thanos in Infinity War.",
-		"release_date": 1556067600,
+		"release_date": 1555871400000,
 		"genres": ["Adventure", "Science Fiction", "Action"]
 	}
 ]
