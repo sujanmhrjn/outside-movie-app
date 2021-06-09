@@ -45,6 +45,7 @@ const MoviesList: React.FC = (): ReactElement => {
 
     const onModalCloseClick = (): void => {
         setModalActive(!modalActive);
+   
        
     }
     // Fires when director name is clicked
@@ -62,24 +63,32 @@ const MoviesList: React.FC = (): ReactElement => {
         
             <div className="-mx-4">
                 <div className="w-full lg:w-5/12 px-4">
-                    {movies.map((item: MovieBase,i)=>{
-                        return  <MovieItem 
-                                    key={'movie'+i} 
-                                    data={item} 
-                                    selected={selectedMovie} 
-                                    favorites={favorites}
-                                    onMovieClick={onMovieSelect}
-                                    onFavoriteClick={onFavoriteClick}
-                                    onDirectorClick={onDirectorClick}
-                                    />
-                    })}
+
+                        {movies.map((item: MovieBase,i)=>{
+                            return  (
+               
+                                    <MovieItem 
+                                        key={'movie'+i} 
+                                        data={item} 
+                                        selected={selectedMovie} 
+                                        favorites={favorites}
+                                        onMovieClick={onMovieSelect}
+                                        onFavoriteClick={onFavoriteClick}
+                                        onDirectorClick={onDirectorClick}
+                                        />
+                 
+                            )
+                        })}
+        
                 </div>
             </div>
             {/* Modal */}
             <Modal isActive={modalActive} title={director.name} onCloseClick={onModalCloseClick}>
                 <div className="flex flex-wrap py-6 -mx-4">
-                    <div className="px-4 mb-4 lg:mb-0 w-full lg:w-5/12">
-                        <img src={director.photoUrl} alt={director.name}/>
+                    <div className="px-4 mb-4 lg:mb-0 w-full lg:w-5/12 ">
+                        <div className="bg-gray-300">
+                            {director.photoUrl!=='' && <img src={director.photoUrl} alt={director.name} className="h-full w-full"/>}
+                        </div>
                     </div>
                     <div className="px-4 w-full lg:w-7/12">
                         <p className="text-sm text-gray-500">{director.description}</p>

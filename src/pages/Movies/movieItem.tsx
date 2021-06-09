@@ -30,7 +30,7 @@ const MovieItem: React.FC<{ data:MovieBase, onMovieClick: Function, selected: St
         favoriteBtn.current.disabled = true;
         setTimeout(() =>{
             favoriteBtn.current.disabled = false;
-        }, 2000);
+        }, 1500);
        
         if(favorites.length && favorites.indexOf(data.id) > -1){
             newList = favorites.filter((fav)=> fav !== data.id);
