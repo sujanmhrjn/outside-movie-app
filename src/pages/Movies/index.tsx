@@ -51,8 +51,12 @@ const MoviesList: React.FC = (): ReactElement => {
     // Fires when director name is clicked
     const onDirectorClick = (data: director): void => {
         setDirector(directorData);
-        setDirector(data);
-        setModalActive(true);
+        setTimeout(() => {
+            setDirector(data)
+            setModalActive(true);
+        }, 1000)
+        
+       
     }
 
 
