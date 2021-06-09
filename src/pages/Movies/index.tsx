@@ -54,7 +54,7 @@ const MoviesList: React.FC = (): ReactElement => {
         setTimeout(() => {
             setDirector(data)
             setModalActive(true);
-        }, 1000)
+        }, 500)
         
        
     }
